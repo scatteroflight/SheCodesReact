@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  margin: auto;
+}
+
+.App {
+  height: 50vh;
+  width: 650px;
+  font-family: "Montserrat", sans-serif;
+  color: beige;
+  justify-content: center;
+  display: inline-block;
+  background-repeat: no-repeat;
+}
+
+footer {
+  color: navy;
+  display: block;
+  float: left;
+  font-size: 10px;
+}

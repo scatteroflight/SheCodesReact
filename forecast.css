@@ -1,0 +1,18 @@
+.forecast {
+  border-radius: 25px;
+  padding: 9px;
+  color: black !important;
+}
+
+.forecast .cards {
+  margin: auto;
+  padding: 10px;
+}
+
+.forecast .hourlyForecast {
+  margin: auto;
+}
+
+.forecastIcon {
+  font-size: 40px;
+}
